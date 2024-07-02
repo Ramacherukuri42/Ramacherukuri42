@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ramacherukui
+- 👋 Hi, I’m @Ramacherukuri
 - 👀 I’m interested in ...learning new technologies
 - 🌱 I’m currently learning ...datasciene,machinelearning
 - 💞️ I’m looking to collaborate on ...machine learning  projects
